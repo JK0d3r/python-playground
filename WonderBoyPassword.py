@@ -11,6 +11,8 @@ while password!="wonderboyiscool2018":
         print("You entered the correct password:", password)
         print("Please take whatever gadgets you need!")
         print("Don't touch the Doom Canon though - that belongs to Optimal Dad!")
+        if password!="wonderboyiscool2018":
+            print("That's not right! Try again...")
     elif passwordAttempt==3:
         print("Sorry, you are out of attempts")
         break
