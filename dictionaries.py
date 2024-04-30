@@ -10,7 +10,7 @@ monthConversions = {
     "Sep": "September",
     "Oct": "October",
     "Nov": "November",
-    "Dec": "December",
+    "Dec": "December"
 }
 
 # print(monthConversions["Mar"])
